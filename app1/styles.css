@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.hero {
+
+   
+    padding: 100px;
+}
+    
+
+
+
+.hero__title {
+    color: black;
+}
+.hero__description {
+    color: #81da76 ;
+
+}
+.hero__highlight {
+    color:#f7f7f7 ;
+}
+    

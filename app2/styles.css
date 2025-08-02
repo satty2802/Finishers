@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.parent{
+  background-color: azure;
+  width: 100vw;
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.block {
+  margin-top: 15px;
+}
+.items a {
+ 
+  padding: 0px 10px;
+  text-decoration: none;
+  
+}
+ul li {
+  background-color: yellow;
+}

@@ -13,3 +13,4 @@
 // let ind = [1,5,77,4,69,18];
 
 //commenting all the code
+console.log("great");
